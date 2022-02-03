@@ -18,8 +18,6 @@ print("""
 print("""
 [1] >> For start Press 1
 """)
-
-if vv1ck == '1':
 	webbrowser.open('https://t.me/al7asubji')
 	slow('      *****************************')
 	print('Accounts should be placed in a file named user.txt')
